@@ -18,4 +18,4 @@ A repo of project to learn AWS Amplify - Web, API, DynamoDB
 ---
 
 - Url:
-  - https://qmzaj6jy1j.execute-api.ca-central-1.amazonaws.com/dev
+  - https://dev.d19re78ahspdpx.amplifyapp.com/
